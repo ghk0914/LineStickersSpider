@@ -1,5 +1,6 @@
 # LineStickersSpider
 需要套件如下，打開cmd複製貼上即可
+
 pip install beautifulsoup4
 
 
